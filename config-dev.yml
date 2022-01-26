@@ -1,4 +1,4 @@
 
 #这是一个开发环境
 config:
-  info: dev https://github.com/ppbbabc/springcloud-config.git version=2
+  info: dev https://github.com/ppbbabc/springcloud-config.git version=3
